@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Slots from './components/Slots';
+import Slots from './components/Slots/Slots';
 
 function App() {
   return (
