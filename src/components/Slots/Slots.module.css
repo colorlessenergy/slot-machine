@@ -1,0 +1,12 @@
+.slot-machine {
+  height: 70px;
+  overflow: hidden;
+}
+
+.slot {
+  display: flex;
+}
+
+.slot__reel {
+  padding: 10px 20px;
+}
