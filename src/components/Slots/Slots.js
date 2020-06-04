@@ -49,10 +49,6 @@ class Slots extends Component {
   rollSlotMachine = () => {
     const rollData = this.state.rollData.slice();
 
-    if (rollData.length == 0) {
-      this.roll();
-    }
-
     let allReels = [];
 
     // the roll data is stored 
